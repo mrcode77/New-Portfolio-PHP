@@ -2,8 +2,8 @@
 
 <?php
 $host = "localhost";
-$user = "root";
-$pass = "";
+$user = "admin";
+$pass = "Administrator*";
 $db = "myportfolio";
 $koneksi = mysqli_connect($host, $user, $pass, $db);
 
